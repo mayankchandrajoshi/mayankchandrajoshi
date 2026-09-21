@@ -1,15 +1,114 @@
-# 💫 About Me:
-Software Developer with 1.5+ years of experience building mobile and backend applications. I primarily work with React Native, TypeScript, Node.js, and NestJS, with experience in databases, APIs, Docker, Redis, and cloud deployments.<br><br>I enjoy building practical products, exploring new technologies, and continuously improving my problem-solving and system design skills.<br>
+<h1 align="left">Mayank Chandra Joshi</h1>
 
+<p align="left">
+  <code>software developer</code> · <code>mobile + backend</code> · <code>1.5+ yrs shipping</code>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayankcjoshi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayank-chandra-joshi) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mayankcjoshi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mayankjoshi9871) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankjoshi9871@gmail.com) 
+```ts
+const mayank = {
+  role: "Software Developer",
+  builds: ["React Native apps", "NestJS / Node.js backends"],
+  cares: ["practical products", "clean APIs", "system design"],
+  currently: "leveling up problem solving & architecture",
+  reachMe: "mayankjoshi9871@gmail.com",
+} as const;
+```
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat-square&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat-square&logo=babel&logoColor=black) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat-square&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mayankchandrajoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mayankchandrajoshi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayankchandrajoshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `~/stack`
+
+I think in layers, so the stack is grouped the same way.
+
+<table>
+  <tr>
+    <td width="150"><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC" />
+      <img src="https://img.shields.io/badge/React_Query-0d1117?style=flat-square&logo=reactquery&logoColor=FF4154" />
+      <img src="https://img.shields.io/badge/Gradle-0d1117?style=flat-square&logo=gradle&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E" />
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=6DA55F" />
+      <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Twilio-0d1117?style=flat-square&logo=twilio&logoColor=F22F46" />
+      <img src="https://img.shields.io/badge/FFmpeg-0d1117?style=flat-square&logo=ffmpeg&logoColor=5cb85c" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+      <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D" />
+      <img src="https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=008CC1" />
+      <img src="https://img.shields.io/badge/Elasticsearch-0d1117?style=flat-square&logo=elasticsearch&logoColor=0377CC" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Google_Cloud-0d1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+      <img src="https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639" />
+      <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netlify-0d1117?style=flat-square&logo=netlify&logoColor=00C7B7" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-0d1117?style=flat-square&logo=vite&logoColor=646CFF" />
+      <img src="https://img.shields.io/badge/MUI-0d1117?style=flat-square&logo=mui&logoColor=007FFF" />
+      <img src="https://img.shields.io/badge/Sass-0d1117?style=flat-square&logo=sass&logoColor=CC6699" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tooling</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05033" />
+      <img src="https://img.shields.io/badge/GitLab-0d1117?style=flat-square&logo=gitlab&logoColor=FC6D26" />
+      <img src="https://img.shields.io/badge/Jest-0d1117?style=flat-square&logo=jest&logoColor=C21325" />
+      <img src="https://img.shields.io/badge/Vitest-0d1117?style=flat-square&logo=vitest&logoColor=FCC72B" />
+      <img src="https://img.shields.io/badge/ESLint-0d1117?style=flat-square&logo=eslint&logoColor=4B32C3" />
+      <img src="https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37" />
+      <img src="https://img.shields.io/badge/Swagger-0d1117?style=flat-square&logo=swagger&logoColor=85EA2D" />
+      <img src="https://img.shields.io/badge/pnpm-0d1117?style=flat-square&logo=pnpm&logoColor=F69220" />
+    </td>
+  </tr>
+</table>
+
+<sub>Also written: C++, HTML/CSS, EJS, Webpack, Babel, Styled Components.</sub>
+
+<br/>
+
+## `~/activity`
+
+<table>
+  <tr>
+    <td>
+      <img height="165" src="https://github-readme-stats.shion.dev/api?username=mayankchandrajoshi&hide_border=false&count_private=false&bg_color=0d1117&border_color=30363d&title_color=e3b341&icon_color=e3b341&text_color=c9d1d9&text_bold=false" />
+    </td>
+    <td>
+      <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mayankchandrajoshi&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=e3b341&text_color=c9d1d9" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=mayankchandrajoshi&background=0d1117&border=30363d&stroke=30363d&ring=e3b341&fire=e3b341&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=e3b341&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+## `~/contact`
+
+[LinkedIn](https://linkedin.com/in/mayank-chandra-joshi) &nbsp;/&nbsp; [Medium](https://medium.com/@mayankcjoshi) &nbsp;/&nbsp; [X](https://x.com/mayankjoshi9871) &nbsp;/&nbsp; [Instagram](https://instagram.com/mayankcjoshi) &nbsp;/&nbsp; [Email](mailto:mayankjoshi9871@gmail.com)
